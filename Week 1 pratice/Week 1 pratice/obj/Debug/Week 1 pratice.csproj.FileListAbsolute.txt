@@ -1,0 +1,6 @@
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week 1 pratice\Week 1 pratice\bin\Debug\Week 1 pratice.exe.config
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week 1 pratice\Week 1 pratice\bin\Debug\Week 1 pratice.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week 1 pratice\Week 1 pratice\bin\Debug\Week 1 pratice.pdb
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week 1 pratice\Week 1 pratice\obj\Debug\Week 1 pratice.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week 1 pratice\Week 1 pratice\obj\Debug\Week 1 pratice.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week 1 pratice\Week 1 pratice\obj\Debug\Week 1 pratice.pdb
