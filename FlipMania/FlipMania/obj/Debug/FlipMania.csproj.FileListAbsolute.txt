@@ -1,0 +1,6 @@
+C:\Users\Nik\Documents\GitHub\Program5Solutions\FlipMania\FlipMania\bin\Debug\FlipMania.exe.config
+C:\Users\Nik\Documents\GitHub\Program5Solutions\FlipMania\FlipMania\bin\Debug\FlipMania.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\FlipMania\FlipMania\bin\Debug\FlipMania.pdb
+C:\Users\Nik\Documents\GitHub\Program5Solutions\FlipMania\FlipMania\obj\Debug\FlipMania.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\GitHub\Program5Solutions\FlipMania\FlipMania\obj\Debug\FlipMania.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\FlipMania\FlipMania\obj\Debug\FlipMania.pdb

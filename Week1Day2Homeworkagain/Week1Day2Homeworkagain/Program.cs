@@ -64,6 +64,12 @@ namespace Week1Day2Homeworkagain
                 Console.WriteLine(i);
                 i--;
             }
+
+            i = 10;
+            while (i < 30)
+            {
+
+            }
         }
     
     
