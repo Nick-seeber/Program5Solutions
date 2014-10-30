@@ -1,0 +1,6 @@
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1Day2Homeworkagain\Week1Day2Homeworkagain\bin\Debug\Week1Day2Homeworkagain.exe.config
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1Day2Homeworkagain\Week1Day2Homeworkagain\bin\Debug\Week1Day2Homeworkagain.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1Day2Homeworkagain\Week1Day2Homeworkagain\bin\Debug\Week1Day2Homeworkagain.pdb
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1Day2Homeworkagain\Week1Day2Homeworkagain\obj\Debug\Week1Day2Homeworkagain.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1Day2Homeworkagain\Week1Day2Homeworkagain\obj\Debug\Week1Day2Homeworkagain.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1Day2Homeworkagain\Week1Day2Homeworkagain\obj\Debug\Week1Day2Homeworkagain.pdb

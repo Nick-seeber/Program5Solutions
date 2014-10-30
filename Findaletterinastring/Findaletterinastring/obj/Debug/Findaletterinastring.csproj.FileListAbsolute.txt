@@ -1,0 +1,6 @@
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Findaletterinastring\Findaletterinastring\bin\Debug\Findaletterinastring.exe.config
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Findaletterinastring\Findaletterinastring\bin\Debug\Findaletterinastring.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Findaletterinastring\Findaletterinastring\bin\Debug\Findaletterinastring.pdb
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Findaletterinastring\Findaletterinastring\obj\Debug\Findaletterinastring.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Findaletterinastring\Findaletterinastring\obj\Debug\Findaletterinastring.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Findaletterinastring\Findaletterinastring\obj\Debug\Findaletterinastring.pdb
