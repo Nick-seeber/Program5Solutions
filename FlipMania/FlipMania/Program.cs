@@ -52,6 +52,7 @@ namespace FlipMania
             while (numOfHeadsFliped < numOfHeads)
             {
                 int flip = rng.Next(1, 3);
+               
                 if (flip == 1)
                 {
                     numOfHeadsFliped = numOfHeadsFliped + 1;

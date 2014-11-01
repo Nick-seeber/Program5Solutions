@@ -201,7 +201,7 @@ namespace Week_1_pratice
             }
         }
         //Create a function called superloop that takes three integer parameters called "startNum
-        //"endNum" and "increment"
+        //"endNum" and "increment"z
         static void superLoop(int startNum, int endNum, int Increment)
         {
             int count = 0;

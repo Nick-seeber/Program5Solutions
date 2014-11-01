@@ -24,6 +24,8 @@ namespace Week1Day2Homeworkagain
             forLoops();
             whileLoops();
 
+            puttingItTogether();
+
             Console.ReadKey();
             
            
@@ -66,10 +68,25 @@ namespace Week1Day2Homeworkagain
             }
 
             i = 10;
-            while (i < 30)
+            while (i > 30)
             {
 
             }
+        }
+
+        static void puttingItTogether()
+        {
+            string myName = "Nick";
+            Console.WriteLine("My name is " + myName + " and has " + myName.Length + " letters in it");
+            List<string> productList = new List<string>(){"basketball", "baseball glove", "tennis shoes", "hockey puck"};
+
+            for (int i = 0; i < productList.Count; i++)
+            {
+                Console.Write("My list has " + productList[i] + " in it" + Environment.NewLine);
+                Console.Write("And " + productList.Count + " items in it ");
+            }
+            
+
         }
     
     

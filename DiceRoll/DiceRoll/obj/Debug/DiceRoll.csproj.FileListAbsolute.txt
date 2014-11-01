@@ -1,0 +1,6 @@
+C:\Users\Nik\Documents\GitHub\Program5Solutions\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\Nik\Documents\GitHub\Program5Solutions\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\GitHub\Program5Solutions\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\Nik\Documents\GitHub\Program5Solutions\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb

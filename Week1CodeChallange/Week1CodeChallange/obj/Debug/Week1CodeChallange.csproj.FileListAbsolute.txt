@@ -1,0 +1,6 @@
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1CodeChallange\Week1CodeChallange\bin\Debug\Week1CodeChallange.exe.config
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1CodeChallange\Week1CodeChallange\bin\Debug\Week1CodeChallange.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1CodeChallange\Week1CodeChallange\bin\Debug\Week1CodeChallange.pdb
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1CodeChallange\Week1CodeChallange\obj\Debug\Week1CodeChallange.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1CodeChallange\Week1CodeChallange\obj\Debug\Week1CodeChallange.exe
+C:\Users\Nik\Documents\GitHub\Program5Solutions\Week1CodeChallange\Week1CodeChallange\obj\Debug\Week1CodeChallange.pdb
